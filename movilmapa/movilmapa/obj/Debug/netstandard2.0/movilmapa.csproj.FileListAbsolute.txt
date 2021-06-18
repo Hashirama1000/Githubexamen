@@ -1,0 +1,14 @@
+C:\Movil 2\movilmapa\movilmapa\movilmapa\bin\Debug\netstandard2.0\movilmapa.deps.json
+C:\Movil 2\movilmapa\movilmapa\movilmapa\bin\Debug\netstandard2.0\movilmapa.dll
+C:\Movil 2\movilmapa\movilmapa\movilmapa\bin\Debug\netstandard2.0\ref\movilmapa.dll
+C:\Movil 2\movilmapa\movilmapa\movilmapa\bin\Debug\netstandard2.0\movilmapa.pdb
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\movilmapa.csproj.AssemblyReference.cache
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\movilmapa.AssemblyInfoInputs.cache
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\movilmapa.AssemblyInfo.cs
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\movilmapa.csproj.CoreCompileInputs.cache
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\movilmapa.dll
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\ref\movilmapa.dll
+C:\Movil 2\movilmapa\movilmapa\movilmapa\obj\Debug\netstandard2.0\movilmapa.pdb

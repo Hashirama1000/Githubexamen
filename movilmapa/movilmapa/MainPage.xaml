@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="movilmapa.MainPage">
+
+    <StackLayout>
+
+        <Image Source="https://www.uth.hn/wp-content/uploads/2020/01/204-300x184.png"
+               HeightRequest="75" />
+        <Label Text ="Ubicacion"/>
+        <Entry Text="Nombre de ubicacion" x:Name="txtNombreUbica"/>
+        <Label Text="Latitud" Margin="0,24,0,0"/>
+        <Entry Text="13.30028" Keyboard="Numeric" x:Name="txtLatitud"/>
+        <Label Text="Longitud" Margin="0,24,0,0"/>
+        <Entry Text="-87.19083" x:Name="txtLongitud" Keyboard="Numeric"/>
+        <Button Text="Abrir Ubicacion" x:Name="btnAbrir" Clicked="btnAbrir_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
